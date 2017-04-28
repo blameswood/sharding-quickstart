@@ -13,12 +13,12 @@ mybatis.sharding.quickstart.TestClient
 
 如果你不需要
 
-`
+```xml
 <dependency>
 	<groupId>org.springframework.data</groupId>
 	<artifactId>spring-data-commons</artifactId>
 	<version>2.0.0.M1</version>
 </dependency>
-`
+```
 
 可以把JDK降低到1.7
